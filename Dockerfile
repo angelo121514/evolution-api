@@ -1,3 +1,3 @@
-FROM atendai/evolution-api:latest
+FROM evoapicloud/evolution-api:v2.3.7
 
 EXPOSE 8080
